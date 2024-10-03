@@ -33,7 +33,7 @@ void task0() {
 
 void task1() {
     int number;
-    cout << "Enter a three digit number: " << endl;
+    cout << "Enter a three-digit number: " << endl;
     cin >> number;
     cin.clear();
 
