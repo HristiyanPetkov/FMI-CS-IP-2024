@@ -21,14 +21,16 @@ int biggest_digit_sum(unsigned);
 void print_satisfying_predicates(unsigned);
 
 int main() {
-    task1();
-    task2();
-    task3();
-    task4();
-    task5();
-    task6();
-    task7();
-    task8();
+//    task1();
+//    task2();
+//    task3();
+//    task4();
+//    task5();
+//    task6();
+//    task7();
+//    task8();
+
+    return 0;
 }
 
 void task1() {
